@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Research in Progress: For new publications, please check  https://scholar.google.com/citations?user=5Qc6lfYAAAAJ
-#### Sumeet Kumar, Tom Mitchell, Kathleen M. Carley, Co-Training on Social Networks: A Joint Label Propagation and Text Classification Approach for Stance Mining 
-#### Sumeet Kumar, Ramon Villa Cox, Binxuan Huang, Kathleen Carley,  Stance2Vec: A Deep Learning Model to Predict Stance Taken in Reply Posts Using Weak Supervision
-#### Sumeet Kumar, Vandith Pamuru, Deepa Mani, Block Ryan’s Toys Reviews? The Perils of Implicit Advertisements on YouTube for Kids,  Workshop on Information Technologies and Systems (under review)
+For new publications, please check  <a href="https://scholar.google.com/citations?user=5Qc6lfYAAAAJ">https://scholar.google.com/citations?user=5Qc6lfYAAAAJ</a>
+
+## Research in Progress
+### Sumeet Kumar, Tom Mitchell, Kathleen M. Carley, Co-Training on Social Networks: A Joint Label Propagation and Text Classification Approach for Stance Mining 
+### Sumeet Kumar, Ramon Villa Cox, Binxuan Huang, Kathleen Carley,  Stance2Vec: A Deep Learning Model to Predict Stance Taken in Reply Posts Using Weak Supervision
+### Sumeet Kumar, Vandith Pamuru, Deepa Mani, Block Ryan’s Toys Reviews? The Perils of Implicit Advertisements on YouTube for Kids,  Workshop on Information Technologies and Systems (under review)
 
 ## Publications in  Refereed Journals
 #### David M. Beskow, Sumeet Kumar, Kathleen M. Carley, The evolution of political memes: Detecting and characterizing internet memes with multi-modal deep learning, Information Processing & Management, Volume 57, Issue 2, 2020, https://doi.org/10.1016/j.ipm.2019.102170.
