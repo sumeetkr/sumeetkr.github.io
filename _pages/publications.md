@@ -5,109 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-reviewed Papers
-### Entity Linking for Short Text Using Structured Knowledge Graph via Multi-grained Text Matching
-**Binxuan Huang**, Han Wang, Tong Wang, Yue Liu, Yang Liu<br /> 
-INTERSPEECH, 2020 (To appear)<br /> 
+## Research in Progress: For new publications, please check  https://scholar.google.com/citations?user=5Qc6lfYAAAAJ
+#### Sumeet Kumar, Tom Mitchell, Kathleen M. Carley, Co-Training on Social Networks: A Joint Label Propagation and Text Classification Approach for Stance Mining 
+#### Sumeet Kumar, Ramon Villa Cox, Binxuan Huang, Kathleen Carley,  Stance2Vec: A Deep Learning Model to Predict Stance Taken in Reply Posts Using Weak Supervision
+#### Sumeet Kumar, Vandith Pamuru, Deepa Mani, Block Ryan’s Toys Reviews? The Perils of Implicit Advertisements on YouTube for Kids,  Workshop on Information Technologies and Systems (under review)
 
-### An anatomical comparison of fake-news and trusted-news sharing pattern on Twitter
-Sumeet Kumar, **Binxuan Huang**, Ramon Alfonso Villa Cox, and Kathleen M. Carley<br /> 
-Computational and Mathematical Organization Theory, 2020<br /> 
-
-###  Discover Your Social Identity from What You Tweet: A Content Based Approach
-**Binxuan Huang** and Kathleen M. Carley<br /> 
-Disinformation, Misinformation, and Fake News in Social Media: Emerging Research Challenges and Opportunities, 2020<br /> 
-
-###  Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
-**Binxuan Huang** and Kathleen M. Carley<br /> 
-EMNLP 2019<br /> 
-[PDF](https://www.aclweb.org/anthology/D19-1549.pdf),
-[uncleaned code](https://www.dropbox.com/sh/bwkyo58cymy3x9v/AACaiOBKZNtObf5pzevjJQVva?dl=0)
-
-###  A Hierarchical Location Prediction Neural Network for Twitter User Geolocation
-**Binxuan Huang** and Kathleen M. Carley<br /> 
-EMNLP 2019<br /> 
-[PDF](https://www.aclweb.org/anthology/D19-1480.pdf)
-
-### Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning.
-**Binxuan Huang** and Kathleen M. Carley <br /> 
-NeurIPS Graph Representation Learning Workshop 2019 <br /> 
-[Arxiv](https://arxiv.org/abs/1904.08035),
-[Code](https://www.dropbox.com/s/9ii7w9kuobctg62/src.zip?dl=0)
+## Publications in  Refereed Journals
+#### David M. Beskow, Sumeet Kumar, Kathleen M. Carley, The evolution of political memes: Detecting and characterizing internet memes with multi-modal deep learning, Information Processing & Management, Volume 57, Issue 2, 2020, https://doi.org/10.1016/j.ipm.2019.102170.
+####  Babcock, M., Cox, R.A.V. and Kumar, Sumeet, Diffusion of Pro-and Anti-false Information Tweets: the Black Panther Movie Case. Computational and Mathematical Organization Theory,25(1),pp.72-84.2019 DOI:10.1007/s10588-018-09286-x
+#### Sumeet Kumar, Hakan Erdogmus, Bob Iannucci, Martin Griss, and João Diogo Falcão. 2018. Rethinking the Future of Wireless Emergency Alerts: A Comprehensive Study of Technical and Conceptual Improvements. (UBICOMP and IMWUT) Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 2, Article 71 (July 2018), 33 pages. DOI:10.1145/3214274
 
 
-###  A Large-Scale Empirical Study of Geotagging Behavior on Twitter
-**Binxuan Huang** and Kathleen M. Carley<br /> 
-ASONAM 2019<br /> 
-[Arxiv](https://arxiv.org/abs/1908.10948),
-[Slides](https://binxuan.github.io/files/asonam_2019.pdf)
-
-### Location Order Recovery in Trails with Low Temporal Resolution
-**Binxuan Huang** and Kathleen M. Carley<br /> 
-IEEE Transactions on Network Science and Engineering<br /> 
-[Link](https://ieeexplore.ieee.org/document/8470968),
-[PDF](https://binxuan.github.io/files/location-order-recovery_final_version.pdf)
-
-### Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification
-**Binxuan Huang** and Kathleen M. Carley <br /> 
-EMNLP 2018<br /> 
-[PDF](https://binxuan.github.io/files/emnlp2018.pdf)
-
-### Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks
-**Binxuan Huang**, Yanglan Ou and Kathleen M. Carley <br /> 
-SBP-BRiMS 2018<br /> 
-[Link](https://link.springer.com/chapter/10.1007/978-3-319-93372-6_22),
-[Arxiv](https://arxiv.org/abs/1804.06536),
-[Slides](https://binxuan.github.io/files/aspect_sentiment_aoa.pdf),
-[Code](https://www.dropbox.com/s/hri1su5axbaladd/code_share.zip?dl=0)
+## Publications in Peer Reviewed Conference Proceedings
+#### Sumeet Kumar, Kathleen M. Carley, What to Track on the Twitter Streaming API? A Knapsack Bandits Approach to Dynamically Update the Search Terms,  ASONAM Conference, Vancouver, Canada, 2019 link
+#### Sumeet Kumar, Kathleen M. Carley, Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations, ACL Conference, 5047--5058, Florence, Italy, 2019 https://www.aclweb.org/anthology/P19-1498
+#### Sumeet Kumar, Kathleen M. Carley, People2Vec: Learning Latent Representation of Social Media Users, SBP-BRiMS, 154-163, Washington DC, 2018 DOI:10.1007/978-3-319-93372-6_17
+#### Kumar, Sumeet & Carley, Kathleen. Simulating Attacks on the US Fiber-Optics Internet Infrastructure, 50th conference on Winter simulation. Winter Simulation Conference, Las Vegas. 2017 DOI:10.1109/WSC.2017.8247869
+#### Sumeet Kumar, Matthew Benigni, and Kathleen M. Carley, The Impact of US Cyber Policies on Cyber-Attacks Trend, IEEE Conference on Intelligence and Security Informatics (ISI), 181-186, Tucson, US, 2016 DOI:10.1109/ISI.2016.7745464
+#### Sumeet Kumar, Kathleen M. Carley, Approaches to Understanding the Motivations Behind Cyber Attacks, IEEE Conference on Intelligence and Security Informatics (ISI), 307-309, Tucson, Arizona, US, 2016 DOI:10.1109/ISI.2016.7745496
+#### Sumeet Kumar, Hakan Erdogmus, João Diogo Falcão, Martin Griss, Bob Iannucci, Location-Aware Wireless Emergency Alerts, IEEE Homeland Security Technologies Conference, Boston, USA, 2016, DOI: 10.1109/THS.2016.7568902
+#### Bob Iannucci, João Diogo Falcão, Sumeet Kumar, Hakan Erdogmus, Martin Griss, From Alerting to Awareness, IEEE  Homeland Security Technologies Conference, Boston, USA, 2016 DOI:10.1109/THS.2016.7801354
+#### Jia Zhang, Bob Iannucci, Mark Hennessy, Kaushik Gopal, Sean Xiao, Sumeet Kumar,. A Federated Platform for Mobile Data-Centric Service Development and Sharing", in Proceedings of 2013 IEEE 10th International Conference on Services Computing (SCC), Santa Clara, California, USA, pp. 446-453, 2013 DOI:10.1109/SCC.2013.34
 
 
-### On Predicting Geolocation of Tweets Using Convolutional Neural Networks
-**Binxuan Huang** and Kathleen M. Carley<br /> 
-SBP-BRiMS 2017<br /> 
-[Link](https://link.springer.com/chapter/10.1007/978-3-319-60240-0_34), 
-[Arxiv](https://arxiv.org/abs/1704.05146), 
-[Slides](https://binxuan.github.io/files/location_prediction.pdf)
-
-### RATE: Overcoming Noise and Sparsity of Textual Features in Real-Time Location Estimation
-Yu Zhang, Wei Wei, **Binxuan Huang**, Kathleen M. Carley and Yan Zhang<br /> 
-CIKM 2017<br /> 
-[Link](https://dl.acm.org/citation.cfm?id=3133067),
-[PDF](http://www.casos.cs.cmu.edu/publications/papers/2017LocationInference.pdf)
-
-### The Role of Different Tie Strength in Disseminating Different Topics on a Microblog
-Felicia Natali, Kathleen M. Carley, Feida Zhu and **Binxuan Huang** <br /> 
-ASONAM 2017<br /> 
-[Link](https://dl.acm.org/citation.cfm?id=3110130),
-[PDF](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4929&context=sis_research)
-
-## Preprints
-### Disinformation and Misinformation on Twitter during the Novel Coronavirus Outbreak
-**Binxuan Huang**, and Kathleen M. Carley <br />
-In submission <br />
-[Arxiv](https://arxiv.org/abs/2006.04278) 
-
-### Recurrent U-net: Deep learning to predict daily summertime ozone in the United States
-Tai-Long He, Dylan Jones, **Binxuan Huang**, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E Charlie White, Helen M Worden, John R Worden <br />
-In submission <br />
-[Arxiv](https://arxiv.org/abs/1908.05841) 
-
-### A Probabilistic Framework for Location Inference from Social Media
-Yujie Qian, Jie Tang, Zhilin Yang, **Binxuan Huang**, Wei Wei and Kathleen Carley <br />
-[Arxiv](https://arxiv.org/abs/1702.07281)
-
-
-
-
-## Technical Reports
-
-### NATO Trident Juncture on Twitter: Public Discussion
-William Frankenstein, **Binxuan Huang** and Kathleen M. Carley <br /> 
-[PDF](http://www.casos.cs.cmu.edu/publications/papers/TwitterNATO-CMU-ISR-16-100.pdf)
-
-<!--- ### Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning
-Binxuan Huang, Kathleen M. Carley  <br /> 
-[Arxiv](https://arxiv.org/abs/1904.08035)
--->
-
-
+## Publications in Peer-Reviewed Workshop Proceedings
+#### João Diogo Falcão, Joel Krebs, Sumeet Kumar, and Hakan Erdogmus. 2018. OpenAlerts: A Software System to Evaluate Smart Emergency Alerts and Notifications. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (UbiComp '18). ACM, New York, NY, USA, 1250-1255. DOI:10.1145/3267305.3274115
+#### Sumeet Kumar and Kathleen M. Carley. 2018. Towards Group-Activities Based Community Detection. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (UbiComp '18). ACM, New York, NY, USA, 1178-1183. DOI:10.1145/3267305.3274765
+#### Sumeet Kumar, Kathleen M. Carley, Understanding DDoS Cyber-Attacks using Social Media Analytics,   IEEE Conference on Intelligence and Security Informatics (ISI), 231-236, Tucson, US, 2016 DOI:10.1109/ISI.2016.7745480
+#### Sumeet Kumar, Kathleen M. Carley, DDoS cyber-attacks network: Who's attacking whom,  IEEE Conference on Intelligence and Security Informatics (ISI), 218-218, Tucson, Arizona, US, 2016 DOI:10.1109/ISI.2016.7745476
+#### Sumeet Kumar, Le T. Nguyen, Ming Zeng, Kate Liu, and Joy Zhang. 2015. Sound Shredding: Privacy Preserved Audio Sensing. In Proceedings of the 16th International Workshop on Mobile Computing Systems and Applications (HotMobile '15). ACM, New York, NY, USA, 135-140. , 2015 DOI:10.1145/2699343.2699366
