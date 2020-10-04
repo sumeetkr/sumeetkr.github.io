@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Binxuan Huang"
+title                    : "Sumeet Kumar"
 title_separator          : "-"
-name                     : &name "Binxuan Huang"
-description              : &description "Applied Scientist at Amazon, with a Ph.D. degree in Computer Science"
-url                      : https://binxuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sumeet Kumar"
+description              : &description "Assistant Professor at Indian School of Business, Hyderabad, with a Ph.D. degree in Societal Computing from the School of Computer Science at Carnegie Mellon"
+url                      : https://sumeetkr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Binxuan Huang"
+  name             : "Sumeet Kumar"
   avatar           : "profile.jpg"
-  bio              : "Applied Scientist at Amazon, with a Ph.D. degree in Computer Science"
-  location         : "Seattle, WA"
+  bio              : "Assistant Professor at Indian School of Business, Hyderabad, with a Ph.D. degree in Societal Computing from the School of Computer Science at Carnegie Mellon"
+  location         : "Hyderabad, India"
   employer         :
-  googlescholar    : https://scholar.google.com/citations?user=_lCJGisAAAAJ&hl=en
-  email            : binxuanhuang@gmail.com
+  googlescholar    : https://scholar.google.com/citations?user=5Qc6lfYAAAAJ&hl=en
+  email            : firstname_lastname@isb.edu
   uri              :
   bitbucket        :
   codepen          :
