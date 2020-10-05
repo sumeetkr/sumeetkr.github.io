@@ -15,16 +15,11 @@ For new publications, please check  <a href="https://scholar.google.com/citation
 <li>  Sumeet Kumar, Vandith Pamuru, Deepa Mani, Block Ryan’s Toys Reviews? The Perils of Implicit Advertisements on YouTube for Kids,  Workshop on Information Technologies and Systems (under review) </li>
 </ol>
 
-## Publications in  Refereed Journals
+## Publications in  Refereed Journals or in Peer Reviewed Conference with Proceedings
 <ol>
 <li> David M. Beskow, Sumeet Kumar, Kathleen M. Carley, The evolution of political memes: Detecting and characterizing internet memes with multi-modal deep learning, Information Processing & Management, Volume 57, Issue 2, 2020, https://doi.org/10.1016/j.ipm.2019.102170.</li>
 <li> Babcock, M., Cox, R.A.V. and Kumar, Sumeet, Diffusion of Pro-and Anti-false Information Tweets: the Black Panther Movie Case. Computational and Mathematical Organization Theory,25(1),pp.72-84.2019 DOI:10.1007/s10588-018-09286-x </li>
 <li> Sumeet Kumar, Hakan Erdogmus, Bob Iannucci, Martin Griss, and João Diogo Falcão. 2018. Rethinking the Future of Wireless Emergency Alerts: A Comprehensive Study of Technical and Conceptual Improvements. (UBICOMP and IMWUT) Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 2, Article 71 (July 2018), 33 pages. DOI:10.1145/3214274 </li>
-</ol>
-
-
-## Publications in Peer Reviewed Conference Proceedings
-<ol>
 <li> Sumeet Kumar, Kathleen M. Carley, What to Track on the Twitter Streaming API? A Knapsack Bandits Approach to Dynamically Update the Search Terms,  ASONAM Conference, Vancouver, Canada, 2019 link </li>
 <li> Sumeet Kumar, Kathleen M. Carley, Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations, ACL Conference, 5047--5058, Florence, Italy, 2019 https://www.aclweb.org/anthology/P19-1498 </li>
 <li> Sumeet Kumar, Kathleen M. Carley, People2Vec: Learning Latent Representation of Social Media Users, SBP-BRiMS, 154-163, Washington DC, 2018 DOI:10.1007/978-3-319-93372-6_17</li>
@@ -34,10 +29,6 @@ For new publications, please check  <a href="https://scholar.google.com/citation
 <li> Sumeet Kumar, Hakan Erdogmus, João Diogo Falcão, Martin Griss, Bob Iannucci, Location-Aware Wireless Emergency Alerts, IEEE Homeland Security Technologies Conference, Boston, USA, 2016, DOI: 10.1109/THS.2016.7568902 </li>
 <li> Bob Iannucci, João Diogo Falcão, Sumeet Kumar, Hakan Erdogmus, Martin Griss, From Alerting to Awareness, IEEE  Homeland Security Technologies Conference, Boston, USA, 2016 DOI:10.1109/THS.2016.7801354 </li>
 <li> Jia Zhang, Bob Iannucci, Mark Hennessy, Kaushik Gopal, Sean Xiao, Sumeet Kumar,. A Federated Platform for Mobile Data-Centric Service Development and Sharing", in Proceedings of 2013 IEEE 10th International Conference on Services Computing (SCC), Santa Clara, California, USA, pp. 446-453, 2013 DOI:10.1109/SCC.2013.34 </li>
-</ol>
-
-## Publications in Peer-Reviewed Workshop Proceedings
-<ol>
 <li> João Diogo Falcão, Joel Krebs, Sumeet Kumar, and Hakan Erdogmus. 2018. OpenAlerts: A Software System to Evaluate Smart Emergency Alerts and Notifications. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (UbiComp '18). ACM, New York, NY, USA, 1250-1255. DOI:10.1145/3267305.3274115 </li>
 <li> Sumeet Kumar and Kathleen M. Carley. 2018. Towards Group-Activities Based Community Detection. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (UbiComp '18). ACM, New York, NY, USA, 1178-1183. DOI:10.1145/3267305.3274765 </li>
 <li> Sumeet Kumar, Kathleen M. Carley, Understanding DDoS Cyber-Attacks using Social Media Analytics,   IEEE Conference on Intelligence and Security Informatics (ISI), 231-236, Tucson, US, 2016 DOI:10.1109/ISI.2016.7745480 </li>
