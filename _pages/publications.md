@@ -5,17 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-For new publications, please check  <a href="https://scholar.google.com/citations?user=5Qc6lfYAAAAJ">Google scholar</a>
+For new publications, please check  my <a href="https://scholar.google.com/citations?user=5Qc6lfYAAAAJ">Google scholar</a> page.
 
 ## Research in Progress
 
 <ol>
+<li>  Sumeet Kumar, Vandith Pamuru, Deepa Mani, Block Ryan’s Toys Reviews? The Perils of Implicit Advertisements on YouTube for Kids,  Workshop on Information Technologies and Systems (under review) </li>
 <li> Sumeet Kumar, Tom Mitchell, Kathleen M. Carley, Co-Training on Social Networks: A Joint Label Propagation and Text Classification Approach for Stance Mining </li>
 <li>  Sumeet Kumar, Ramon Villa Cox, Binxuan Huang, Kathleen Carley,  Stance2Vec: A Deep Learning Model to Predict Stance Taken in Reply Posts Using Weak Supervision </li>
-<li>  Sumeet Kumar, Vandith Pamuru, Deepa Mani, Block Ryan’s Toys Reviews? The Perils of Implicit Advertisements on YouTube for Kids,  Workshop on Information Technologies and Systems (under review) </li>
 </ol>
 
-## Publications in  Refereed Journals or in Peer Reviewed Conference with Proceedings
+## Publications in  Refereed Journals or in Peer Reviewed Conferences with Proceedings
 <ol>
 <li> David M. Beskow, Sumeet Kumar, Kathleen M. Carley, The evolution of political memes: Detecting and characterizing internet memes with multi-modal deep learning, Information Processing & Management, Volume 57, Issue 2, 2020, https://doi.org/10.1016/j.ipm.2019.102170.</li>
 <li> Babcock, M., Cox, R.A.V. and Kumar, Sumeet, Diffusion of Pro-and Anti-false Information Tweets: the Black Panther Movie Case. Computational and Mathematical Organization Theory,25(1),pp.72-84.2019 DOI:10.1007/s10588-018-09286-x </li>
