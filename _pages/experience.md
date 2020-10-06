@@ -4,8 +4,9 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-### Assistant Professor, Indian School of Business, Hyderabad, Sep 2020 - Present
-### Software Engineer at Symantec Corporation, Mountain View, USA (Sep 2013- Aug 2014) 
+### Assistant Professor, Indian School of Business, Hyderabad, Aug 2020 - Present
+### Research Assistant, Carnegie Mellon University, Pittsburgh, USA, Aug 2014 - May 2020
+### Software Engineer at Symantec Corporation, Mountain View, USA (Sep 2013- Aug 2014)
 ### Development Engineer at Talentica Software, Pune, India (July 2010 - Nov 2011)
 ### Software Analyst at Intergraph, Hyderabad, India (August 2007 - July 2010)
 
